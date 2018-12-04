@@ -17,5 +17,7 @@ I am changing the value of row 1 to be test in my data store
 ## Useful References
 
 https://doc.qt.io/qt-5/modelview.html
-https://doc.qt.io/archives/qt-4.8/model-view-programming.html (note: outdated and for )
+
+https://doc.qt.io/archives/qt-4.8/model-view-programming.html (note: outdated and for C++ but useful nonetheless)
+
 https://doc.qt.io/qt-5/qabstractitemmodel.html
